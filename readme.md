@@ -15,7 +15,7 @@ Made with Eagle
 
 ![Eagle PCB](Images/MC34063-STEPDOWN-01.brd.png)
 
-![Schematic](Images/MC34063-STEPDOWN-01.sch.png)
+[Schematic](Images/MC34063-STEPDOWN-01.sch.png)
 
 ###MC34063-STEPUP-01
 
